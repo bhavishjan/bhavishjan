@@ -43,11 +43,11 @@ I’ll keep adding new stuff as I learn and improve. Check back later — who kn
 
 ## 📫 Contact Me
 
-- 📧 Email: [Link](https://mail.google.com/mail/?view=cm&to=bhavishjanparhyar@gmail.com)
-- 💬 WhatsApp: [Link](https://wa.me/923211380328)  
-- 💼 LinkedIn: [Link](https://www.linkedin.com/in/bhavishjan)
-- 📷 Instagram: [Link](https://www.instagram.com/bhavish.jan)  
-- 📘 Facebook: [Link](https://www.facebook.com/bhavishjanparhyar)
+- [Email:](https://mail.google.com/mail/?view=cm&to=bhavishjanparhyar@gmail.com)
+- [WhatsApp:](https://wa.me/923211380328)  
+- [LinkedIn:](https://www.linkedin.com/in/bhavishjan)
+- [Instagram:](https://www.instagram.com/bhavish.jan)  
+- [Facebook:](https://www.facebook.com/bhavishjanparhyar)
 
 ---
 
