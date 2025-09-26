@@ -43,7 +43,7 @@ I’ll keep adding new stuff as I learn and improve. Check back later — who kn
 
 ## 📫 Contact Me
 
-- 📧 Email: [Link](mailto:bhavishjanparhyar@gmail.com)
+- 📧 Email: [Link](https://mail.google.com/mail/?view=cm&to=bhavishjanparhyar@gmail.com)
 - 💬 WhatsApp: [Link](https://wa.me/923211380328)  
 - 💼 LinkedIn: [Link](https://www.linkedin.com/in/bhavishjan)
 - 📷 Instagram: [Link](https://www.instagram.com/bhavish.jan)  
