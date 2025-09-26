@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bhavish Jan
+# 👋 Hello, This is Bhavish Jan!
 
 **CS Undergrad @ FAST NUCES Islamabad**
 
