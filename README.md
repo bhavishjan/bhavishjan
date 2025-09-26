@@ -20,9 +20,9 @@ I’ll keep adding new stuff as I learn and improve. Check back later — who kn
 
 ## 🎓 Education
 
-- **Bachelor’s in Computer Science** – FAST NUCES, Islamabad *(Aug 2025 – Present)*  
-- **Intermediate in Computer Science** – Akhuwat College University, Kasur *(Aug 2023 – Aug 2025)*  
-- **Matriculation in Computer Science** – Amar Jagdish Malani Govt. High School, Mithi *(Aug 2018 – Aug 2023)*  
+- **Bachelor’s in Computer Science** – FAST NUCES, Islamabad *(2025 – Present)*  
+- **Intermediate in Computer Science** – Akhuwat College University, Kasur *(2023 – 2025)*  
+- **Matriculation in Computer Science** – Amar Jagdish Malani Govt. High School, Mithi *(2018 – 2023)*  
 
 ---
 
