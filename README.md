@@ -47,7 +47,7 @@ I’ll keep adding new stuff as I learn and improve. Check back later — who kn
 - [WhatsApp](https://wa.me/923211380328)  
 - [LinkedIn](https://www.linkedin.com/in/bhavishjan)
 - [Instagram](https://www.instagram.com/bhavish.jan)  
-- [Facebook](https://www.facebook.com/bhavishjanparhyar)
+- [Facebook](https://www.facebook.com/bhavishjaan)
 
 ---
 
