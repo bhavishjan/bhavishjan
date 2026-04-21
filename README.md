@@ -18,24 +18,21 @@ I’ll keep adding new stuff as I learn and improve. Check back later, who knows
 
 ## 🎓 Education
 
-- **Bachelor’s in Computer Science** – FAST NUCES, Islamabad *(2025 – Present)*  
-- **Intermediate in Computer Science** – Akhuwat College University, Kasur *(2023 – 2025)*  
-- **Matriculation in Computer Science** – Amar Jagdish Malani Govt. High School, Mithi *(2018 – 2023)*  
+- **BS CS** – FAST NUCES, Islamabad *(Aug 2025 – Present)*  
+- **ICS** – Akhuwat College University, Kasur *(2023 – 2025)*  
+- **Matric (CS)** – Amar Jagdish Malani Govt. High School, Mithi *(2018 – 2023)*  
 
 ---
 
 ## 🛠️ Skills
 
-**Languages**: C, C++, Python (Basic)  
-**Web Development**: HTML, CSS, JavaScript  
-**Tools**: Git, GitHub, Linux  
+**Languages**: C (Intermediate) , C++ (Advanced) , Python(Basic) , Web Dev (Intermediate)
 
 ---
 
 ## 🎵 Hobbies
 
-- Playing Chess  
-- Listening to Music  
+- Just Playing Chess  
 
 ---
 
@@ -46,7 +43,3 @@ I’ll keep adding new stuff as I learn and improve. Check back later, who knows
 - [LinkedIn](https://www.linkedin.com/in/bhavishjan)
 - [Instagram](https://www.instagram.com/bhavish.jan)  
 - [Facebook](https://www.facebook.com/bhavishjaan)
-
----
-
-© 2025 **Bhavish Jan**. All Rights Reserved.
