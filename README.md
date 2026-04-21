@@ -9,12 +9,10 @@
 I’m Bhavish and I love computers.  
 Someday, I’ll showcase my cool projects here and maybe even some mistakes I’ve made along the way.
 
-- Currently learning the basics of **C++**, hoping to master it one day  
-- I use **Git** and **GitHub** to save my work  
-- I try my best not to break my laptop every other day  
-- If something doesn’t work, assume it’s a **FEATURE**  
+Currently learning the basics of **C++**, hoping to master it one day  
+I try my best not to break my laptop every other day   
 
-I’ll keep adding new stuff as I learn and improve. Check back later — who knows what I’ll create (or mess up) next!
+I’ll keep adding new stuff as I learn and improve. Check back later, who knows what I’ll create (or mess up) next time!
 
 ---
 
