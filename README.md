@@ -27,19 +27,4 @@ I’ll keep adding new stuff as I learn and improve. Check back later, who knows
 ## 🛠️ Skills
 
 **Languages**: C (Intermediate) , C++ (Advanced) , Python(Basic) , Web Dev (Intermediate)
-
----
-
-## 🎵 Hobbies
-
-- Just Playing Chess  
-
----
-
-## 📫 Contact Me
-
-- [Email](https://mail.google.com/mail/?view=cm&to=bhavishjanparhyar@gmail.com)
-- [WhatsApp](https://wa.me/923211380328)  
-- [LinkedIn](https://www.linkedin.com/in/bhavishjan)
-- [Instagram](https://www.instagram.com/bhavish.jan)  
-- [Facebook](https://www.facebook.com/bhavishjaan)
+And Learning...
