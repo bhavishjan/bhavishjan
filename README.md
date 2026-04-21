@@ -21,5 +21,5 @@ I’ll keep adding new stuff as I learn and improve.
 
 ## Skills
 
-**Languages**: C (Intermediate) , C++ (Advanced) , Python(Basic) , Web Dev (Intermediate)
+**Languages**: C (Intermediate) , C++ (Advanced) , Python(Basic) , Web Dev (Intermediate) <br>
 And Learning...
